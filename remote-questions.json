@@ -1,0 +1,6 @@
+{
+  "version": "1.1",
+  "updated": "2026-11-22",
+  "note": "Add approved Questions #202+ here using the compact array format [id, tier, category, franchise, question, [opt1, opt2, opt3, opt4], correctIdx, explanation, funFact]",
+  "questions": []
+}
