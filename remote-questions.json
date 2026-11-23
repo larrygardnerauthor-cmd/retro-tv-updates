@@ -1,6 +1,18 @@
-{
-  "version": "1.1",
-  "updated": "2026-11-22",
-  "note": "Add approved Questions #202+ here using the compact array format [id, tier, category, franchise, question, [opt1, opt2, opt3, opt4], correctIdx, explanation, funFact]",
-  "questions": []
-}
+[
+  {
+    "id": 202,
+    "category": "Classic TV",
+    "franchise": "The Dick Van Dyke Show",
+    "difficulty": "Easy",
+    "question": "What is the name of the fictional comedy-variety program Rob Petrie writes for on 'The Dick Van Dyke Show'?",
+    "options": [
+      "The Alan Brady Show",
+      "The Buddy Sorrell Hour",
+      "The Mel Cooley Tonight Show",
+      "The New Rochelle Revue"
+    ],
+    "answer": 0,
+    "fact": "Carl Reiner originally created the pilot 'Head of the Family' with himself as Rob Petrie before recasting Dick Van Dyke and playing Alan Brady himself.",
+    "amazonKeyword": "The Dick Van Dyke Show Complete Series DVD"
+  }
+]
